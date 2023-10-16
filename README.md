@@ -88,4 +88,4 @@ There are 5 jupyter notebook files
  
 ## Blog
 
-Link - 
+Link - https://medium.com/@kiranmv95/analysis-and-prediction-of-severity-of-damage-to-residential-buildings-caused-by-earthquake-using-c4cfd7b264c9
